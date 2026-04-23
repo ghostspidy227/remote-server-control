@@ -205,4 +205,4 @@ journalctl -u tg_bot -f
 
 ## License
 
-MIT — see [LICENSE](https://claude.ai/chat/LICENSE).
+MIT — see [LICENSE](LICENSE).
