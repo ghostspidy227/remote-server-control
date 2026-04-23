@@ -123,7 +123,7 @@ Tokens expire after 90 seconds without a renewal (30s interval × 3 grace).
 
 ## Hardware
 
-![Hardware photo](https://claude.ai/chat/pic.jpeg)
+![Hardware photo](https://raw.githubusercontent.com/ghostspidy227/remote-server-control/main/pic.jpeg)
 
 **Components:**
 
